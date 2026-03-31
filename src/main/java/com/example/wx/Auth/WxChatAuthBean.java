@@ -7,6 +7,6 @@ import org.springframework.stereotype.Component;
 @Component
 public class WxChatAuthBean {
 
-    private String appId="wx72087f4823772784"; // wx72087f4823772784
-    private String secret="41dde7d38322263023ee80481166150b"; // 41dde7d38322263023ee80481166150b
+    private String appId="wx123456"; // appId for wechat platform
+    private String secret="1234556789"; // corresponding secret number
 }
